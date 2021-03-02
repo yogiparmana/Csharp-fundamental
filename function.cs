@@ -12,11 +12,10 @@ class Program {
    Console.WriteLine("-------------" );
     //function / fungsi adalah suatu bagian dari program yang dipergunakan untuk mengerjakan suatu tugas tertentu yang menghasilkan 
     //suatu nilai untuk dikembalikan ke program pemanggil dan letaknya dipisahkan dari bagian program yang menggunakannya.
-    //public static void main(String[] args) ini adalah fungsi utama dari java
+    //public static void main() ini adalah fungsi utama dari java
    Console.WriteLine("----------------- penulisan fungsi" );
 
-    //cetak kata dengan membuat object 
-    //karena kita tidak membuat fungsi static jadi kita harus memanggil object class ini dlu baru 
+
     cetak_kata("ini adalah kata yang akan di cetak");
    
 
